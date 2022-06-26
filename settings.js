@@ -43,13 +43,13 @@ global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
 
 global.premium = ['🖤Black Panther Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+212695290310'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'MOUAD EL🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤MOUAD EL Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = 'OWEN BOT BY MOUAD EL.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
@@ -57,11 +57,11 @@ global.region = '*╚═══❖•ೋ° 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝�
 
 global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://instagram.com/mouuad__elk'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤INSTAGRAM🖤'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = '🖤MOUAD EL  Bot🖤'
 
 global.sessionName = 'session'
 
