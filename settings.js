@@ -41,7 +41,7 @@ global.APIKeys = {
 
 global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['🖤ᴍᴏᴜᴀᴅ ᴇʟ🖤']
 
 global.ownernomer = '+212695290310'
 
